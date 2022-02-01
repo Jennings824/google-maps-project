@@ -1,4 +1,4 @@
-# google-maps-project
+# Google Maps Project
 Testing Google Maps API with Random User Data
 
 
